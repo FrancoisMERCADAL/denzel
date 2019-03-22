@@ -1,0 +1,31 @@
+html{
+  width: 1440px;
+  height: 723px;
+  background-image: linear-gradient(#ff8b19, white);
+}
+
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  margin-left: auto;
+  font-family: ReservoirGrunge;
+  text-align: center;
+}
+
+catchphrase{
+  width: 500px;
+  height: 50px;
+  font-size: 24px;
+  font-family: impact;
+  color: white;
+  background: transparent;
+  text-align: center;
+  letter-spacing: 1px;
+  padding: 10px;
+  line-height: 1.5;
+  position: center;
+  border: none;
+  display: block;
+  margin-left: 32%;
+}
